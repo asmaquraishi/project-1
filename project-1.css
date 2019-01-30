@@ -1,0 +1,114 @@
+
+body{
+
+    background-color:rgb(180, 180, 180);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1{
+
+   text-align: center;
+   background-color: rgb(231, 229, 94);
+   font-style: italic;
+   border: solid black 1px;
+   border-radius: 8px;
+   width: 50%;
+   top:50%;
+   left:25%;
+   font-size:30px;
+   padding: 50px 50px;
+   position: relative;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.css{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size:30px;
+    margin: 4px 2px;
+    position: relative;
+    top: 50%;
+    left:45%;
+    border: solid black 1px;
+    border-radius: 8px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.button{
+  
+    background-color:rgb(180, 180, 180);
+    color: black;
+    text-align: center;
+    display: inline-block;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 300px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+    border-bottom: 6px solid black;
+    padding: 50px 50px;
+    font-size: 30px;
+    width: 5px;
+    height: 5px;
+    overflow: hidden;
+    flex: auto;
+    font-weight: bolder;
+  }
+
+  .border{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-left: 6px solid;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex: auto;
+    
+  }
+
+  
+h3{
+    text-align: center;
+    background-color: rgb(231, 229, 94);
+    font-style: italic;
+    border: solid black 1px;
+    font-size: 30px;
+    border-radius: 8px;
+    width: 50%;
+    top:50%;
+    left:25%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    position: relative;
+  
+}
+
+.scoreX{
+    text-align: center;
+    background-color:white;
+    border: solid black 1px;
+    font-size: 30px;
+    width:50%;
+    border-radius: 8px;
+    width: 50%;
+    top:50%;
+    left:25%;
+    position: relative;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.scoreO{
+    text-align: center;
+    background-color:white;
+    border: solid black 1px;
+    font-size: 30px;
+    width:50%;
+    border-radius: 8px;
+    width: 50%;
+    top:50%;
+    left:25%;
+    position: relative;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
