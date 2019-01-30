@@ -14,9 +14,9 @@ h1{
    border-radius: 8px;
    width: 50%;
    top:50%;
-   left:25%;
+   left:20%;
    font-size:30px;
-   padding: 50px 50px;
+   padding: 30px 40px;
    position: relative;
    font-family: "Comic Sans MS", cursive, sans-serif;
 }
@@ -65,8 +65,8 @@ h1{
     border-left: 6px solid;
     flex-grow: 0;
     flex-shrink: 0;
-    flex: auto;
-    
+    height: 6px;
+   
   }
 
   
