@@ -6,7 +6,7 @@
 # About the game:
 a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
 
-Features Included:
+# Features Included:
 - User can play game and start as X then O then X then O, etc
 - User can not choose a space that is already taken
 - User can win game and see a message for the result
@@ -24,7 +24,7 @@ Features Included:
 - HTML
 
 # Future development planning:
-# - add features:
+ add features:
      - User can play with the computer 
      - Allow players to customize their tokens (X, O, name, etc..)
      - Get inventive style
