@@ -1,6 +1,6 @@
 #Tic Tac Toe Game
 
-      (https://github.com/asmaquraishi/project-1/blob/master/TicTacTocScreenshot.png)
+ ![alt text](https://github.com/asmaquraishi/project-1/blob/master/TicTacTocScreenshot.png)
       
 
 About the game:
